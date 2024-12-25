@@ -1,0 +1,10 @@
+{
+	"name": "MonkeyNoteApp",
+	"displayName": "MonkeyNoteApp",
+	"android": {
+		"package": "dev.olshamb.noteapp"
+	},
+	"ios": {
+		"bundleIdentifier": "dev.olshamb.noteapp"
+	}
+}
